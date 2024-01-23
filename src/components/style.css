@@ -1,0 +1,13 @@
+.App-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    width:  clamp(120px, 75vw,375px);
+}
+
+.App-container img{
+    border-radius: 10px;
+}
+
